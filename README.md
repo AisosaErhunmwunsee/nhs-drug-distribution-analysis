@@ -1,6 +1,6 @@
 # NHS Drug Distribution Equity Analysis
 
-## 📌 Overview
+##  Overview
 
 This project explores healthcare inequalities and medicine distribution patterns using simulated NHS prescribing data inspired by real-world NHS healthcare analytics challenges.
 
@@ -14,7 +14,7 @@ The analysis investigates:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ The analysis investigates:
 
 ---
 
-## 📊 Analytical Focus
+##  Analytical Focus
 
 The project demonstrates:
 
@@ -42,7 +42,7 @@ The project demonstrates:
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - Deprivation showed a positive relationship with medicine shortages.
 - Rural regions experienced greater shortage pressures.
@@ -52,7 +52,7 @@ The project demonstrates:
 
 ---
 
-## 📈 Visualisations Included
+## Visualisations Included
 
 - Regional cost comparison charts
 - Drug category shortage analysis
@@ -61,7 +61,7 @@ The project demonstrates:
 
 ---
 
-## 🚀 Why This Project Matters
+## Why This Project Matters
 
 This project was developed from my MSc Business Analytics dissertation focused on equitable NHS drug distribution and healthcare resource allocation.
 
@@ -74,7 +74,7 @@ It reflects my interest in:
 
 ---
 
-## 📁 Files
+##  Files
 
 - `generate_dataset.py` → dataset generator
 - `sample_dataset.csv` → generated dataset
@@ -83,7 +83,7 @@ It reflects my interest in:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Potential future extensions include:
 
